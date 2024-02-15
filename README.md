@@ -1,0 +1,1 @@
+This VB.NET-based system simplifies attendance tracking for co-working space users, offering easy time in and out logging. It also computes salaries based on attendance and generates daily, weekly, or monthly reports. Perfect for managing co-working space operations efficiently.
